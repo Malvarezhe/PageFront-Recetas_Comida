@@ -2,7 +2,7 @@
 
 # Diseño de Sitio Web Responsive 
 
-Sitio web creado aplicando conceptos de Arquitectura HTML y CCS aprendidos en los cursos de Oracle Next Education - Alura Latam.
+Sitio web creado aplicando conceptos de Arquitectura HTML y CCS estudiados en la ruta Frontend de Oracle Next Education - Alura Latam.
 
 Técnicas usadas:
 - BEM
