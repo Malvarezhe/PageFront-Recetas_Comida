@@ -6,7 +6,7 @@ Sitio web creado aplicando conceptos de Arquitectura HTML y CCS.
 
 Técnicas usadas:
 - BEM
-- Diseño Atómico
+- Atomic Desing  
 
 ## ¿Quiénes intervienen en el desarrollo del aplicativo?
 - Desarrollador: Mauricio Alvarez H. Ing. Electrónico y Desarrollador Web Jr.  
